@@ -4,6 +4,13 @@
 
 
 x=1+2
-#substa=raction
+#substaraction
 y=3-2
 
+<<<<<<< HEAD
+=======
+#Division
+
+
+#Demonstarte
+>>>>>>> rebaseExample
